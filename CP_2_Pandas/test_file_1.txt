@@ -1,9 +1,5 @@
 Added file to merge in test_branch_2
 #feature branch test_branch_3
 
-
-<<<<<<< HEAD
 #added comment from second user as second comment
-=======
 #second comment!!!!
->>>>>>> f6d07e334dd244d980351a8516e91c3fdb9faace
